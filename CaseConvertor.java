@@ -29,6 +29,8 @@ public class CaseConvertor
             System.out.println(value.toLowerCase());
         }
 
+        System.out.println("Thank you for using CaseConvertor...");
+
 
     
     
